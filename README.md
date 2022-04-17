@@ -9,7 +9,7 @@ The first step is download the configure_apt_proxy.sh file. It can be obtained f
 
 ### 2. Grant execution permissions to the script
 
-Next, you have to open the terminal in the downloaded script location and execute the command `chmod +777 configure_apt_proxy.sh` to grant execution permissions to the script.
+Next, you have to open the terminal in the downloaded script location and execute the command `chmod +x configure_apt_proxy.sh` to grant execution permissions to the script.
 
 ### 3. Script execution
 
