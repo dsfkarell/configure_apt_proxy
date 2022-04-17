@@ -23,7 +23,7 @@ Note: If you do not enter some of the requested data (leaving it blank), an erro
 
 ### 5. Check the APT navigation through the configured proxy
 
-Execute some APT command such as `sudo apt update` to test the provided proxy configuration.
+Execute some APT command such as `sudo apt update` to test the provided proxy configuration. Note: Does not need to restart.
 
 
 ## Possible Enhancements
