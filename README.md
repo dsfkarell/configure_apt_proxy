@@ -1,6 +1,10 @@
 # configure_apt_proxy.sh
 A bash script for linux (Debian and Ubuntu) to easily configure an HTTP PROXY to use APT behind a proxy.
 
+## Why to use this solution over others?
+
+The advantage of this script is that the proxy configuration data is entered in a GUI. It couldn't be easier for users!
+
 ## How to execute the script?
 
 ### 1. Download the script
@@ -33,3 +37,13 @@ This script can be enhanced by adding: data validations, proxy credentials suppo
 ## Testing
 
 Tested on Nova 8, Ubuntu 20.04 and Debian 11.
+
+## Copyright
+
+Copyright (C) 2022 Denis Francia Karell
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
